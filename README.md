@@ -12,14 +12,15 @@ Este projeto oferece uma visualização interativa e detalhada do **Sistema Sola
 ---
 
 ## Funcionalidades
-- **Visualização 2D e 3D**: Alternativa entre visualizações em 2D e 3D dos planetas e suas órbitas.
-- **Informações dos Planetas**: Exibição da velocidade orbital, tamanho relativo e distância do Sol de cada planeta.
-- **Movimento Orbital**: Animação interativa que simula os planetas se movendo ao redor do Sol de acordo com suas órbitas reais.
+1. **Visualização 2D e 3D**: Alternativa entre visualizações em 2D e 3D dos planetas e suas órbitas.
+2. **Informações dos Planetas**: Exibição da velocidade orbital, tamanho relativo e distância do Sol de cada planeta.
+3. **Movimento Orbital**: Animação interativa que simula os planetas se movendo ao redor do Sol de acordo com suas órbitas reais.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
