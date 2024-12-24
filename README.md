@@ -1,8 +1,11 @@
 # Sistema Solar 3d:
 
-[Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
+[Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/) 
 
-![image](https://github.com/user-attachments/assets/316da0ce-4106-4989-8609-d76ce14d6fb6)
+> <img src="img/3d_pt1" style="width: 48%;">
+> <img src="img/2d_pt1" style="width: 51%;">
+> <img src="img/3d_pt2" style="width: 48%;">
+> <img src="img/2d_pt2" style="width: 51%;">
 
 ---
 
