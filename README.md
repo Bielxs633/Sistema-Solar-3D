@@ -2,10 +2,10 @@
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/) 
 
-> <img src="img/3d_pt1" style="width: 48%;">
-> <img src="img/2d_pt1" style="width: 51%;">
-> <img src="img/3d_pt2" style="width: 48%;">
-> <img src="img/2d_pt2" style="width: 51%;">
+> <img src="img/3d_pt1.png" style="width: 49%;">
+> <img src="img/2d_pt1.png" style="width: 49%;">
+> <img src="img/3d_pt2.png" style="width: 49%;">
+> <img src="img/2d_pt2.png" style="width: 49%;">
 
 ---
 
